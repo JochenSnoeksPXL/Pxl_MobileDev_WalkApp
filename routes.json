@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Route 1",
+    "description": "City",
+    "distance": "5km"
+  },
+  {
+    "title": "Route 2",
+    "description": "Mountains",
+    "distance": "20km"
+  },
+  {
+    "title": "Route 3",
+    "description": "Undersea experience",
+    "distance": "15km"
+  },
+  {
+    "title": "Route 4",
+    "description": "Beach",
+    "distance": "3km"
+  },
+  {
+    "title": "Route 5",
+    "description": "Forest",
+    "distance": "10km"
+  }
+]
