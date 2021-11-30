@@ -23,5 +23,55 @@
     "title": "Route 5",
     "description": "Forest",
     "distance": "10km"
+  },
+  {
+    "title": "Route 6",
+    "description": "City",
+    "distance": "5km"
+  },
+  {
+    "title": "Route 7",
+    "description": "Mountains",
+    "distance": "20km"
+  },
+  {
+    "title": "Route 8",
+    "description": "Undersea experience",
+    "distance": "15km"
+  },
+  {
+    "title": "Route 9",
+    "description": "Beach",
+    "distance": "3km"
+  },
+  {
+    "title": "Route 10",
+    "description": "Forest",
+    "distance": "10km"
+  },
+  {
+    "title": "Route 11",
+    "description": "City",
+    "distance": "5km"
+  },
+  {
+    "title": "Route 12",
+    "description": "Mountains",
+    "distance": "20km"
+  },
+  {
+    "title": "Route 13",
+    "description": "Undersea experience",
+    "distance": "15km"
+  },
+  {
+    "title": "Route 14",
+    "description": "Beach",
+    "distance": "3km"
+  },
+  {
+    "title": "Route 15",
+    "description": "Forest",
+    "distance": "10km"
   }
 ]
